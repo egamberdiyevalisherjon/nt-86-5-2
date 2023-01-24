@@ -1,0 +1,8 @@
+(sudo) npm i -g yarn
+
+npm create vite
+yarn create vite
+
+yarn (npm install)
+
+yarn add bootstrap (npm i bootstrap)
