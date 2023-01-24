@@ -6,3 +6,5 @@ yarn create vite
 yarn (npm install)
 
 yarn add bootstrap (npm i bootstrap)
+
+yarn add sass (npm i sass)
